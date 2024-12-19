@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Chord Diagram</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Kanit', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .tooltip {
+            position: absolute;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            border-radius: 5px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+        #publications {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background-color: #f0f0f0;
+            color: black;
+            padding: 15px;
+            border-radius: 0 0 0 8px;
+            width: 300px;
+            height: 100%;
+            overflow-y: auto;
+            display: none;
+            z-index: 10;
+            font-weight: 300;
+        }
+
+        #closeButton {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 20px;
+            cursor: pointer;
+            font-weight: light;
+            background: none;
+            border: none;
+        }
+        
+        #infoLink {
+            display: block;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #007BFF;
+            text-decoration: none;
+            text-align: center; 
+        }
+
+        #infoLink:hover {
+            text-decoration: underline;
+        }
+
+        #publicationButton {
+            display: block;
+            margin: 30px auto;
+            padding: 10px 20px;
+            background-color: black; 
+            color: white; 
+            border: none; 
+            border-radius: 20px; 
+            font-size: 14px;
+            cursor: pointer;
+            box-shadow: none; 
+      
+        }
+        
+        #publicationName {
+            margin-top: 60px; 
+            text-align: center; 
+            font-size: 28px; 
+            margin-bottom: 2px; 
+        }
+
+        #researcherInstitute {
+            margin-top: 0px; 
+            text-align: center; 
+            font-size: 18px; 
+            font-weight: 300; 
+        }
+
+        ul li {
+            margin-bottom: 10px;  
+            font-size: 12px; 
+            font-weight: 300;  
+        }
+
+        ul li span {
+            font-weight: 400; 
+        }
+
+        ul li .publication-year {
+            display: block;  
+            font-size: 10px;  
+            font-weight: 300; 
+            margin-top: 4px;  
+            color: #555; 
+        }
+
+
+        ul li span:nth-child(2) {
+            font-weight: bold; 
+        }
+
+        #controls {
+            position: absolute;
+            top: 120px; 
+            left: 20px;
+            z-index: 10;
+            display: flex;
+            gap: 10px;
+            flex-direction: column;
+
+        }
+
+        select {
+            padding: 8px;
+            font-size: 14px;
+            border-radius: 20px; 
+            border: none; 
+            width: 200px;
+            background-color: black; 
+            color: white; 
+            box-shadow: none; 
+            appearance: none; 
+            outline: none; 
+        }
+
+        
+        select:focus, select:active {
+            background-color: #f0f0f0; 
+            color: black; 
+            border: none; 
+            box-shadow: none; 
+        }
+
+        #diagramTitle {
+            position: absolute;
+            top: 40px; 
+            left: 20px; 
+            font-size: 18px; 
+            font-weight: normal; 
+            color: black; 
+            z-index: 10; 
+            white-space: pre-line; 
+            line-height: 1.2; 
+            max-width: 220px; 
+        }
+
+    </style>
+</head>
+<body>
+    <div id="controls">
+        <select id="researcherSelect">
+            <option value="">Forschende</option>
+        </select>
+        <select id="institutSelect">
+            <option value="">Institute</option>
+        </select>
+    </div>
+    <div id="diagramTitle">Forschungszusammenarbeit an der PH Weingarten</div>
+    <svg id="chordDiagram" width="800" height="800"></svg>
+    <div id="tooltip" class="tooltip"></div>
+    <div id="publications">
+        <button id="closeButton">✖</button>
+        <h3 id="publicationName"></h3>
+        <h4 id="researchertitle"></h4>
+        <h4 id="researcherInstitute"></h4>
+        <a id="infoLink" href="#" target="_blank">Zum Forschungsprofil</a>
+        <button id="publicationButton">Publikationen anzeigen</button>
+        <ul id="publicationList"></ul>
+    </div>
+
+    <script>
+        const jsonDataPath = "output_publications&researchers.json"; // Pfad zur JSON-Datei
+    
+        const width = 800, height = 800;
+        const outerRadius = Math.min(width, height) / 2 - 50;
+        const innerRadius = outerRadius - 20;
+    
+        const svg = d3.select("#chordDiagram")
+    .attr("width", "100%") // Setze die Breite auf 100%, damit sie sich dem Browser anpasst
+    .attr("height", "100%") // Setze die Höhe auf 100%
+    .attr("viewBox", `0 0 ${width} ${height}`) // Der Bereich, den das Diagramm einnimmt
+    .attr("preserveAspectRatio", "xMidYMid meet") // Behalte das Seitenverhältnis und skaliere es, damit es immer zentriert ist
+    .call(d3.zoom()
+        .scaleExtent([0.5, 5]) // Zoom von 50% bis 500%
+        .on("zoom", function(event) {
+            svg.attr("transform", event.transform); // Setzt das Zoom-Verhalten und Verschieben der Grafik
+        })
+    )
+    .append("g")
+    .attr("transform", `translate(${width / 2},${height / 2})`); // Setze den Ursprung des Diagramms in die Mitte des SVG
+
+
+    
+        const tooltip = d3.select("#tooltip");
+        const publicationsDiv = d3.select("#publications");
+        const publicationList = d3.select("#publicationList");
+        const publicationButton = d3.select("#publicationButton");
+    
+        d3.json(jsonDataPath).then(data => {
+            const researchers = data.researchers;
+            const connections = data.connections;
+    
+            // Forscher nach Institut und Nachname sortieren
+            data.researchers.sort((a, b) => {
+                if (a.institut < b.institut) return -1;
+                if (a.institut > b.institut) return 1;
+                return a.nachname.localeCompare(b.nachname);
+            });
+    
+            // Mapping von Institute zu Farben
+            const institutes = [...new Set(researchers.map(r => r.institut))];
+            const color = d3.scaleOrdinal()
+                .domain(institutes)
+                .range(["#2b93f4", "#befff3", "#00EEEE", "#03A89E", "#C6E2FF", "#194fd1", "#54dedc", "#5daac8", "#6495ED", "#73C2FB"]); // Beispiel: 9 benutzerdefinierte Farben
+    
+            // Forscher nach Institut gruppieren
+            const researcherMap = new Map(researchers.map((d, i) => [d.user_id, i]));
+            const numResearchers = researchers.length;
+    
+            const matrix = Array.from({ length: numResearchers }, () =>
+                Array(numResearchers).fill(0)
+            );
+    
+            connections.forEach(d => {
+                const sourceIndex = researcherMap.get(d.source);
+                const targetIndex = researcherMap.get(d.target);
+                if (sourceIndex !== undefined && targetIndex !== undefined) {
+                    matrix[sourceIndex][targetIndex] = d.value;
+                }
+            });
+    
+            const chord = d3.chord()
+                .padAngle(0.05)
+                .sortSubgroups(d3.descending)
+                (matrix);
+    
+            const arc = d3.arc()
+                .innerRadius(innerRadius)
+                .outerRadius(outerRadius);
+    
+            const ribbon = d3.ribbon()
+                .radius(innerRadius);
+    
+            const group = svg.append("g")
+                .selectAll("g")
+                .data(chord.groups)
+                .join("g");
+    
+            group.append("path")
+                .attr("d", arc)
+                .attr("fill", d => color(researchers[d.index].institut))
+                .attr("stroke", d => d3.rgb(color(researchers[d.index].institut)).darker())
+                .on("click", (event, d) => {
+                    const selectedIndex = d.index;
+    
+                    svg.selectAll("path.ribbon")
+                        .attr("opacity", ribbon =>
+                            ribbon.source.index === selectedIndex || ribbon.target.index === selectedIndex ? 1 : 0.1
+                        );
+    
+                    const researcher = researchers[d.index];
+                    d3.select("#publicationName").text(`${researcher.vorname} ${researcher.nachname}`);
+                    d3.select("#researcherInstitute").text(researcher.institut);
+    
+                    const lastName = researcher.nachname.toUpperCase(); 
+                    const profileLink = `https://phwg-forschung.de/profil.php?fdb=1&info=${lastName}&usersprache=D`;
+    
+                    d3.select("#infoLink")
+                        .attr("href", profileLink)
+                        .text("Zum Forschungsprofil");
+    
+                    const publicationIds = researcher.publikations_ids.split(',');
+                    const uniquePublicationIds = [...new Set(publicationIds)];
+    
+                    const publications = data.publications.filter(pub =>
+                        uniquePublicationIds.includes(pub.publication_id.toString())
+                    );
+    
+                    publicationList.html("");
+                    publications
+                        .sort((a, b) => b.year - a.year)
+                        .forEach(pub => {
+                            publicationList.append("li")
+                                .html(`<span>${pub.title}</span> (<span>${pub.year}</span>)`);
+                        });
+    
+                    publicationsDiv.style("display", "block");
+                })
+                .on("mouseover", (event, d) => {
+                    const researcher = researchers[d.index];
+                    tooltip.style("opacity", 1)
+                        .html(`${researcher.vorname} ${researcher.nachname}`)
+                        .style("left", (event.pageX + 5) + "px")
+                        .style("top", (event.pageY + 5) + "px");
+                })
+                .on("mouseout", () => tooltip.style("opacity", 0));
+    
+            group.append("text")
+                .each(d => { d.angle = (d.startAngle + d.endAngle) / 2; })
+                .attr("dy", ".35em")
+                .attr("transform", d => `
+                    rotate(${d.angle * 180 / Math.PI - 90})
+                    translate(${outerRadius + 10})
+                    ${d.angle > Math.PI ? "rotate(180)" : ""}
+                `)
+                .attr("text-anchor", d => d.angle > Math.PI ? "end" : null)
+                .text(d => `${researchers[d.index].vorname} ${researchers[d.index].nachname}`);
+    
+            svg.append("g")
+                .selectAll("path")
+                .data(chord)
+                .join("path")
+                .attr("d", ribbon)
+                .attr("fill", d => color(researchers[d.target.index].institut))
+                .attr("stroke", d => d3.rgb(color(researchers[d.target.index].institut)).darker())
+                .attr("class", "ribbon");
+    
+            d3.select("#closeButton").on("click", function() {
+                publicationsDiv.style("display", "none");
+                svg.selectAll("path.ribbon").attr("opacity", 1);
+            });
+    
+            publicationButton.on("click", function() {
+                const isListVisible = publicationList.style("display") === "block";
+                publicationList.style("display", isListVisible ? "none" : "block");
+                publicationButton.text(isListVisible ? "Publikationen anzeigen" : "Publikationen verbergen");
+            });
+    
+            // Fülle das Dropdown mit den Forschern, alphabetisch sortiert
+            const researcherSelect = d3.select("#researcherSelect");
+            researchers.forEach(researcher => {
+                researcherSelect.append("option")
+                    .attr("value", researcher.user_id)
+                    .text(`${researcher.vorname} ${researcher.nachname}`);
+            });
+    
+            // Fülle das Institut-Dropdown
+            const institutSelect = d3.select("#institutSelect");
+            institutes.forEach(institut => {
+                institutSelect.append("option")
+                    .attr("value", institut)
+                    .text(institut);
+            });
+    
+            // Event für die Auswahl eines Forschers
+            researcherSelect.on("change", function() {
+                const selectedUserId = this.value;
+                if (selectedUserId) {
+                    const selectedResearcher = researchers.find(r => r.user_id === selectedUserId);
+                    const researcherIndex = researcherMap.get(selectedResearcher.user_id);
+                    const selectedIndex = researcherIndex;
+    
+                    svg.selectAll("path.ribbon")
+                        .attr("opacity", ribbon =>
+                            ribbon.source.index === selectedIndex || ribbon.target.index === selectedIndex ? 1 : 0.1
+                        );
+    
+                    // Update Name und Institut
+                    d3.select("#publicationName").text(`${selectedResearcher.vorname} ${selectedResearcher.nachname}`);
+                    d3.select("#researcherInstitute").text(selectedResearcher.institut);
+    
+                    const lastName = selectedResearcher.nachname.toUpperCase(); 
+                    const profileLink = `https://phwg-forschung.de/profil.php?fdb=1&info=${lastName}&usersprache=D`;
+    
+                    d3.select("#infoLink")
+                        .attr("href", profileLink)
+                        .text("Zum Forschungsprofil");
+    
+                    // Publikationen für den ausgewählten Forscher laden
+                    const publicationIds = selectedResearcher.publikations_ids.split(',');
+                    const uniquePublicationIds = [...new Set(publicationIds)];
+    
+                    const publications = data.publications.filter(pub =>
+                        uniquePublicationIds.includes(pub.publication_id.toString())
+                    );
+    
+                    publications
+                    .sort((a, b) => b.year - a.year)
+                    .forEach(pub => {
+                    publicationList.append("li")
+                    .html(`<span>${pub.title}</span><br><span class="publication-year">(${pub.year})</span>`);
+            });
+
+    
+                    publicationsDiv.style("display", "block");
+                } else {
+                    // Wenn kein Forscher gewählt wurde, setze die Opazität zurück und verstecke den Bereich
+                    svg.selectAll("path.ribbon").attr("opacity", 1);
+                    d3.select("#publicationName").text("");
+                    d3.select("#researcherInstitute").text("");
+                    publicationList.html("");
+                    publicationsDiv.style("display", "none");
+                }
+            });
+    
+// Event für die Auswahl eines Instituts
+institutSelect.on("change", function() {
+    const selectedInstitut = this.value;
+
+    // Wenn ein Institut ausgewählt wurde, blende das Veröffentlichungs-Panel aus
+    if (selectedInstitut) {
+        publicationsDiv.style("display", "none");
+    } else {
+        svg.selectAll("path").attr("opacity", 1); // Wenn kein Institut gewählt wurde, stelle alle Verbindungen wieder her
+    }
+
+    // Setze die Opazität der Balken entsprechend dem ausgewählten Institut
+    svg.selectAll("path")
+        .attr("opacity", function(d) {
+            const researcher = researchers[d.index];
+            if (researcher.institut === selectedInstitut) {
+                // Setze den Balken des gewählten Instituts auf eine hohe Opazität und gelbe Farbe
+                d3.select(this).attr("fill", "yellow"); // Gelbe Farbe
+                return 1; // Balken des gewählten Instituts anzeigen
+            } else {
+                // Setze Balken anderer Institute auf geringe Opazität
+                return 0.1;
+            }
+        });
+});
+
+
+        });
+    </script>
+    
+</body>
+</html>
