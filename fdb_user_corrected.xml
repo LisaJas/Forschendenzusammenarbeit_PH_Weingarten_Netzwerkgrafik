@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdb_user>
+<user id="1" user_name="bolle">
+<user_name>bolle</user_name>
+<user_gruppe>admin</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Sonstiges, nicht gelistetes Institut</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz>van</namenszusatz>
+<nachname>Flindt</nachname>
+<vorname>Egon</vorname>
+<funktion>Entwickler</funktion>
+<telefon>0176 5691316</telefon>
+<mailadresse>egon.flindt@online-kompetenz.de</mailadresse>
+<anschrift>keine hinterlegt</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="2" user_name="Kaiser">
+<user_name>Kaiser</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Sonstiges, nicht gelistetes Institut</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Kaiser</nachname>
+<vorname>Tim</vorname>
+<funktion>Forschungsreferent</funktion>
+<telefon> 49 751 501-8073</telefon>
+<mailadresse>kaisert@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="6" user_name="Weber">
+<user_name>Weber</user_name>
+<user_gruppe>admin</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Prorektorat für Forschung</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Weber</nachname>
+<vorname>Susanne</vorname>
+<funktion>Forschungsreferentin</funktion>
+<telefon>0751 501-8057</telefon>
+<mailadresse>webers@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="10" user_name="Mueller">
+<user_name>Mueller</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Müller</nachname>
+<vorname>Wolfgang</vorname>
+<funktion>Prorektor für Forschung</funktion>
+<telefon>0751/501-8143</telefon>
+<mailadresse>muellerw@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2</anschrift>
+<maxanzeige>50</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0001-6474-3733</orcid>
+<forschungsschwerpunkte>Technologie-basiertes Lernen, Human-Computer Interaction, Game-based Learning, Gamification, Informationsvisualisierung, Visual Analytics, Wissensmanagement</forschungsschwerpunkte>
+</user>
+<user id="52" user_name="SCHWAB">
+<user_name>SCHWAB</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geographie</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel>Professor Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Schwab</nachname>
+<vorname>Andreas</vorname>
+<funktion></funktion>
+<telefon>0751 501 8382</telefon>
+<mailadresse>schwab@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Stadt- und Geländeklimatologie
+Quartärgeologie
+Multimediales Lernen</forschungsschwerpunkte>
+</user>
+<user id="14" user_name="lukas">
+<user_name>lukas</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Jun.-Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Lukas</nachname>
+<vorname>Sarah</vorname>
+<funktion>Junior-Professorin</funktion>
+<telefon> 49 751 5018269</telefon>
+<mailadresse>lukas@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0003-4687-003</orcid>
+<forschungsschwerpunkte>Sprachenlernen, Schreibkompetenz, Lesekompetenz, Aufgabenwechsel, Handlungsplanung, Lernen in innovativen Lernumgebungen</forschungsschwerpunkte>
+</user>
+<user id="15" user_name="Lang-Wojtasik">
+<user_name>Lang-Wojtasik</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Lang-Wojtasik</nachname>
+<vorname>Gregor</vorname>
+<funktion>Direktor des ZeBiP/Studiendekan der Fakultät I</funktion>
+<telefon>0751-501-8056</telefon>
+<mailadresse>langwojtasik@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten, Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.JPG</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="16" user_name="Stratmann">
+<user_name>Stratmann</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Stratmann</nachname>
+<vorname>Jörg</vorname>
+<funktion>Professor, Leiter des Kompetenzzentrums Medien</funktion>
+<telefon>0751/501-8587</telefon>
+<mailadresse>stratmann@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;University of Education&lt;br&gt;Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="17" user_name="SCHIERSNER">
+<user_name>SCHIERSNER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geschichte</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Schiersner</nachname>
+<vorname>Dietmar</vorname>
+<funktion></funktion>
+<telefon>0751-501-8393</telefon>
+<mailadresse>schiersner@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="53" user_name="FISCHER1">
+<user_name>FISCHER1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Fischer</nachname>
+<vorname>Julia</vorname>
+<funktion>abgeordnete Lehrerin/akademische Mitarbeiterin</funktion>
+<telefon>07515018658</telefon>
+<mailadresse>fischerj@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Forschungsprojekt "Bildungsabbruch"</forschungsschwerpunkte>
+</user>
+<user id="44" user_name="KOPPEL">
+<user_name>KOPPEL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Juniorprof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Koppel</nachname>
+<vorname>Ilka</vorname>
+<funktion>Juniorprofessorin</funktion>
+<telefon>07515018516</telefon>
+<mailadresse>koppel@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="104" user_name="THIEN">
+<user_name>THIEN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Sonstiges, nicht gelistetes Institut</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Thien</nachname>
+<vorname>David</vorname>
+<funktion></funktion>
+<telefon>015737573494</telefon>
+<mailadresse>david-thien@gmx.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="101" user_name="RUBNER">
+<user_name>RUBNER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Chemie</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Rubner</nachname>
+<vorname>Isabel</vorname>
+<funktion></funktion>
+<telefon>0751 501-8346</telefon>
+<mailadresse>isabel.rubner@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Curriculare Innovationsforschung,  Innovative Lehr- und Lernformate, experimentell- konzeptionelle Unterrichtsforschung</forschungsschwerpunkte>
+</user>
+<user id="30" user_name="HUHMANN1">
+<user_name>HUHMANN1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Huhmann</nachname>
+<vorname>Tobias</vorname>
+<funktion>Professor / Zentrumsdirektor Forschungszentrum</funktion>
+<telefon>(0) 751 / 501-8268</telefon>
+<mailadresse>huhmann@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten, Raum S 103&lt;br&gt;Kirchplatz 2&lt;br&gt;D - 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Entwicklung und Erforschung Substantieller Lernumgebungen
+Digital unterstütztes Mathematiklernen und -lehren
+Spielintegriertes Mathematiklernen und -lehren</forschungsschwerpunkte>
+</user>
+<user id="27" user_name="BRAVOGRANSTROEM">
+<user_name>BRAVOGRANSTROEM</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Akademie für wissenschaftliche Weiterbildung</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Bravo Granström</nachname>
+<vorname>Monica</vorname>
+<funktion>Geschäftsführerin der AWW</funktion>
+<telefon>0751/501-8059</telefon>
+<mailadresse>bravo@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-8417-3931</orcid>
+<forschungsschwerpunkte>Mehrsprachigkeit; digitales Lehren und Lernen</forschungsschwerpunkte>
+</user>
+<user id="62" user_name="KLEY">
+<user_name>KLEY</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Kley</nachname>
+<vorname>Susanne</vorname>
+<funktion></funktion>
+<telefon>5018266</telefon>
+<mailadresse>kley@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="26" user_name="HUWER">
+<user_name>HUWER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Chemie</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Huwer</nachname>
+<vorname>Johannes</vorname>
+<funktion>Professor</funktion>
+<telefon> 49 (0) 751 5018346</telefon>
+<mailadresse>huwer@ph-weingarten.de</mailadresse>
+<anschrift>Naturwissenschaftliches Zentrum NZ 2.39&lt;br&gt;88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0002-4271-7822</orcid>
+<forschungsschwerpunkte>1. Digitalisierung/ Digitale Medien / Medienkompetenz im Chemieunterricht
+
+2. MINT-Nachhaltigkeitsbildung
+
+3. Forschendes Experimentieren im Schülerlabor / Das Schülerlabor iChemLab
+
+4. Individualsierung</forschungsschwerpunkte>
+</user>
+<user id="25" user_name="ALBEDYHLL">
+<user_name>ALBEDYHLL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz>von</namenszusatz>
+<nachname>Albedyhll</nachname>
+<vorname>Laura</vorname>
+<funktion>Akademische Mitarbeiterin, Doktorandin</funktion>
+<telefon>01608866466</telefon>
+<mailadresse>vonalbedyhll@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Frühpädagogik, Sprachentwicklung, Sprachförderung, Schriftspracherwerb, Kommunikation in der frühkindlichen Bildung, ANT, Frühe Mehrsprachigkeit</forschungsschwerpunkte>
+</user>
+<user id="29" user_name="SCHLACHTER">
+<user_name>SCHLACHTER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Dr. habil.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Schlachter</nachname>
+<vorname>Birgit</vorname>
+<funktion></funktion>
+<telefon>0751 501 8817</telefon>
+<mailadresse>schlachter@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Theorie literarischen Verstehens
+literaturdidaktische Aufgabenforschung
+Kinder- und Jugendliteraturforschung
+qualitativ-rekonstruktive (Unterrichts-)Forschung
+Literatur der Shoah</forschungsschwerpunkte>
+</user>
+<user id="31" user_name="BINDER">
+<user_name>BINDER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Technik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Dr. hab.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Binder</nachname>
+<vorname>Martin</vorname>
+<funktion>Stellvertretender Leiter Praktikumsamt</funktion>
+<telefon>0751-501-8323</telefon>
+<mailadresse>binderm@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-3414-3013</orcid>
+<forschungsschwerpunkte>Technisches Handeln
+Technisches Gestalten
+Technische Bildung</forschungsschwerpunkte>
+</user>
+<user id="32" user_name="ANDREAS">
+<user_name>ANDREAS</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geschichte</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Sommer</nachname>
+<vorname>Andreas</vorname>
+<funktion>wissenschaftlicher Mitarbeiter</funktion>
+<telefon>0751-501 8398</telefon>
+<mailadresse>sommera@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>empirische Geschichtsdidaktik, Holocaust-Education, regionales Lernen</forschungsschwerpunkte>
+</user>
+<user id="33" user_name="LINN">
+<user_name>LINN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Chemie</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Linn</nachname>
+<vorname>Alexander</vorname>
+<funktion>Akademischer Mitarbeiter &amp; Doktorand</funktion>
+<telefon>(0751) 501 -</telefon>
+<mailadresse>alexander.linn@ph-weingarten.de</mailadresse>
+<anschrift>Chemie und ihre Didaktik
+University of Education Weingarten
+Kirchplatz 2, Raum NZ 2.43
+D-88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0002-5590-5718</orcid>
+<forschungsschwerpunkte>Teacher Education Goes Digital (Naturwissenschaften)</forschungsschwerpunkte>
+</user>
+<user id="34" user_name="KITTEL">
+<user_name>KITTEL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Kittel</nachname>
+<vorname>Andreas</vorname>
+<funktion>Professor, Leiter zentrales Prüfungsamt</funktion>
+<telefon> 49(0)751 501-8272</telefon>
+<mailadresse>kittel@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Forschung zu Rechenstörung in der Sekundarstufe
+DGS</forschungsschwerpunkte>
+</user>
+<user id="35" user_name="VEES">
+<user_name>VEES</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum></zentrum>
+<titel>Dr. phil.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Vees</nachname>
+<vorname>Johannes</vorname>
+<funktion>Lehrbeauftragter </funktion>
+<telefon>075195877365</telefon>
+<mailadresse>vees@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Professionalisierung im Lehrberuf, Orthographie </forschungsschwerpunkte>
+</user>
+<user id="36" user_name="KOENIG1">
+<user_name>KOENIG1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sportwissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>König</nachname>
+<vorname>Stefan</vorname>
+<funktion>Professor Sportwissenschaft</funktion>
+<telefon> 49 751 5018378</telefon>
+<mailadresse>koenig@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2
+8250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0002-7851-1973</orcid>
+<forschungsschwerpunkte>Sportunterrichtsforschung
+Training im Gesundheits- und Nachwuchsleistungssport
+Spielvermittlung
+Forschungsmethodologie</forschungsschwerpunkte>
+</user>
+<user id="37" user_name="DUPLESSISSCHNEIDER">
+<user_name>DUPLESSISSCHNEIDER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>MSW</titel>
+<namenszusatz>du</namenszusatz>
+<nachname>Plessis-Schneider</nachname>
+<vorname>Sharon</vorname>
+<funktion>Doktorandin</funktion>
+<telefon> 4369919230171</telefon>
+<mailadresse>real@sharon.re</mailadresse>
+<anschrift>Hochschulstrasse 1, 6850 Dornbirn, Vorarlberg, Austria / Österreich</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0002-7084-1783</orcid>
+<forschungsschwerpunkte>Ontologische Systemtheorie, Bedürfnistheorien, Zugehörigkeit, Kinderrechte</forschungsschwerpunkte>
+</user>
+<user id="38" user_name="SCHIEFERDECKER">
+<user_name>SCHIEFERDECKER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Schieferdecker</nachname>
+<vorname>Ralf</vorname>
+<funktion>Akademischer Rat</funktion>
+<telefon></telefon>
+<mailadresse>schieferdecker@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule&lt;br&gt;To 1.11&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Professions- &amp; Lehrkräfteforschung, 
+Differenz, Heterogenität &amp; Inklusion</forschungsschwerpunkte>
+</user>
+<user id="39" user_name="WEYERMANN">
+<user_name>WEYERMANN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sportwissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Uhl</nachname>
+<vorname>Elke</vorname>
+<funktion>Wissenschaftliche Mitarbeiterin und Doktorandin</funktion>
+<telefon>  49 751 501-8274</telefon>
+<mailadresse>elke.uhl@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>50</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="40" user_name="BERGMUELLER-HAUPTM1">
+<user_name>BERGMUELLER-HAUPTM1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Bergmüller-Hauptmann</nachname>
+<vorname>Claudia</vorname>
+<funktion>Professorin</funktion>
+<telefon> 49 (0)751-501-8743</telefon>
+<mailadresse>bergmueller-hauptmann@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Qualitativ-rekonstruktive Schul- und Unterrichtsforschung
+Evaluation und Evaluationsforschung
+Schultheorie und Schulgeschichte
+Lehrerprofessionalisierung
+Bildung für nachhaltige Entwicklung/Globales Lernen
+Entwicklungspolitische Inlandsarbeit</forschungsschwerpunkte>
+</user>
+<user id="41" user_name="WICKER">
+<user_name>WICKER</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Wicker</nachname>
+<vorname>Carolin</vorname>
+<funktion></funktion>
+<telefon>0751 5018818</telefon>
+<mailadresse>wicker@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten&lt;br&gt;W-Gebäude (W 1.34)</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.JPG</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="42" user_name="THOMAS">
+<user_name>THOMAS</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Philosophie / Ethik</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Thomas</nachname>
+<vorname>Philipp</vorname>
+<funktion>Professor für Philosophie/Ethik</funktion>
+<telefon>015736240304</telefon>
+<mailadresse>thomas01@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Fakultät I&lt;br&gt;Philosophie/Ethik&lt;br&gt;Postadresse: Kirchplatz 2, 88250 Weingarten &lt;br&gt;Zimmer: W 0.03 (Leibnizstraße 3, 88250 Weingarten)&lt;br&gt;Tel.: 0751/501-8215&lt;br&gt;E-Mail: thomas01(at)ph-weingarten.d</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-5729-5159</orcid>
+<forschungsschwerpunkte>Gegenwartsphilosophie: Phänomenologie, Postmoderne, Negativitätstheorie, Kultur- und Interkulturelle Philosophie (Dialog mit islamischer und ostasiatischer Philosophie), Philosophische Ästhetik
+Praktische Philosophie: Orientierungsfragen, kulturelle und personale Identität, Philosophische Bildung, Philosophiedidaktik, Philosophie der Lebenspraxis, Philosophieren mit Kindern </forschungsschwerpunkte>
+</user>
+<user id="43" user_name="REHM">
+<user_name>REHM</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Rehm</nachname>
+<vorname>Martin</vorname>
+<funktion>Transfermanager</funktion>
+<telefon>0751 768 794 012</telefon>
+<mailadresse>rehmm@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-9553-7008</orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="45" user_name="MASSLER">
+<user_name>MASSLER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Englisch</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Massler</nachname>
+<vorname>Ute</vorname>
+<funktion>Professorin</funktion>
+<telefon>0751-5018286</telefon>
+<mailadresse>massler@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2
+88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0000-0001-7472-2493</orcid>
+<forschungsschwerpunkte>Einsatz digitaler Medien in Schule und Hochschule
+Einsatz von Video in der Lehreraus- und fortbildung
+Literaturdidaktik
+Die Vermittlung von Cultural Studies in Schule und Hochschule
+Didaktik des frühen Fremdsprachenlernens
+Content and Language Integrated Learning (CLIL) in der Grundschule und in    der Sekundarstufe I
+Lesedidaktik
+Mehrsprachigkeitsdidaktik</forschungsschwerpunkte>
+</user>
+<user id="46" user_name="THEINERT">
+<user_name>THEINERT</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Englisch</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Theinert</nachname>
+<vorname>Kerstin</vorname>
+<funktion>akademische Oberrätin</funktion>
+<telefon>0751 501 8630</telefon>
+<mailadresse>theinert@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-2817-1413</orcid>
+<forschungsschwerpunkte>Kommunikative Kompetenz, literarisches Lernen, Mehrsprachigkeit, Leseförderung, Sprachdidaktik, Kultur- und Literaturdidaktik</forschungsschwerpunkte>
+</user>
+<user id="47" user_name="KRUG">
+<user_name>KRUG</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Chemie</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Krug</nachname>
+<vorname>Manuel</vorname>
+<funktion>Akademischer Mitarbeiter</funktion>
+<telefon>01747808038</telefon>
+<mailadresse>Manuel.Krug@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>ARtiste - Augmented Reality Teaching in Science Technology Education</forschungsschwerpunkte>
+</user>
+<user id="48" user_name="HILLEGEIST">
+<user_name>HILLEGEIST</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Keine Zentrumszugehörigkeit</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Hillegeist</nachname>
+<vorname>Kerstin</vorname>
+<funktion>Sprecherzieherin</funktion>
+<telefon>0751 5018265</telefon>
+<mailadresse>hillegeist@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="49" user_name="FISCHER">
+<user_name>FISCHER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Fischer</nachname>
+<vorname>Ute</vorname>
+<funktion>Leitung der Arbeitsstelle LRS </funktion>
+<telefon>0751 5018309</telefon>
+<mailadresse>ufischer@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten </anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Schriftspracherwerb
+Schwierigkeiten im Lesen und Schreiben </forschungsschwerpunkte>
+</user>
+<user id="50" user_name="WIEDENHORN">
+<user_name>WIEDENHORN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Wiedenhorn</nachname>
+<vorname>Thomas</vorname>
+<funktion>akademischer Mitarbeiter</funktion>
+<telefon>0751-501 8589</telefon>
+<mailadresse>wiedenhorn@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;(Lazarettstr. 5)&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>historische Bildungsforschung, Professionalisierungs-, und Partizipations- und Schulentwicklungsforschung, Forschungen zu schulischen und hochschulischen Lehr- und Lernformen</forschungsschwerpunkte>
+</user>
+<user id="82" user_name="JANSSEN">
+<user_name>JANSSEN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Janssen</nachname>
+<vorname>Markus</vorname>
+<funktion></funktion>
+<telefon>0751/ 501 8570</telefon>
+<mailadresse>janssen@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="51" user_name="ORAVEC">
+<user_name>ORAVEC</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sportwissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Oravec</nachname>
+<vorname>Jasmin</vorname>
+<funktion></funktion>
+<telefon>0751/5018554</telefon>
+<mailadresse>oravec@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Gesundheitsförderung</forschungsschwerpunkte>
+</user>
+<user id="54" user_name="KNOER">
+<user_name>KNOER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Knör</nachname>
+<vorname>Emely</vorname>
+<funktion>Akademische Mitarbeiterin </funktion>
+<telefon> 49(0)751 501 8912</telefon>
+<mailadresse>knoer@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten &lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.JPG</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Sprachliche Bildung, Mehrsprachigkeit, Kinderbefragung </forschungsschwerpunkte>
+</user>
+<user id="55" user_name="LOEFFLER">
+<user_name>LOEFFLER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Löffler</nachname>
+<vorname>Cordula</vorname>
+<funktion>Professorin</funktion>
+<telefon>0751 501-8305</telefon>
+<mailadresse>loeffler@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Spracherwerb
+Schriftspracherwerb
+Alphabetisierung Erwachsener</forschungsschwerpunkte>
+</user>
+<user id="56" user_name="ROESSLER">
+<user_name>ROESSLER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Wirtschafts- und Sozialwissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Rößler</nachname>
+<vorname>Sven</vorname>
+<funktion>Vertr. Professur f. Politikwissenschaft/Didaktik</funktion>
+<telefon>  49 751 501 8380</telefon>
+<mailadresse>roessler@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Fakultät I&lt;br&gt;Kirchplatz 2 &lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Krise, Kritik und Didaktik der Moderne</forschungsschwerpunkte>
+</user>
+<user id="57" user_name="MEIERSHOFER">
+<user_name>MEIERSHOFER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geographie</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel>M.Sc.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Meiershofer</nachname>
+<vorname>Stefan</vorname>
+<funktion></funktion>
+<telefon>01726540003</telefon>
+<mailadresse>stefanmeiershofer@gmx.net</mailadresse>
+<anschrift>Starkenstraße 41&lt;br&gt;79104 Freiburg</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Landschaftsgeschichte, Geologie, außerschulische Lernorte, Exkursionen (und Ihre Didaktik/Pädagogik)
+Medien-Didaktik, E-Learning, Multimediale Aufbereitung von Lehr/Lerninhalten</forschungsschwerpunkte>
+</user>
+<user id="58" user_name="ZACHENBACHER">
+<user_name>ZACHENBACHER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geographie</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Zachenbacher</nachname>
+<vorname>Denis</vorname>
+<funktion></funktion>
+<telefon>07515018918</telefon>
+<mailadresse>zachenbacher@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Stadt- und Geländeklimatologie, Einsatz von Drohnensystemen in der geographischen Forschung und Lehre </forschungsschwerpunkte>
+</user>
+<user id="61" user_name="SADEK">
+<user_name>SADEK</user_name>
+<user_gruppe>admin</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Prorektorat für Forschung</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Sadek</nachname>
+<vorname>Sherin</vorname>
+<funktion>Forschungsreferentin</funktion>
+<telefon>0751501-8141</telefon>
+<mailadresse>sherin.sadek@vw.ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Erziehungswissenschaften,
+Berufsbildungsforschung
+Berufspädagogik
+Professionalisierungsforschung
+Internationale Bildungsforschung</forschungsschwerpunkte>
+</user>
+<user id="60" user_name="ALLE1">
+<user_name>ALLE1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geographie</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Alle</nachname>
+<vorname>Markus</vorname>
+<funktion></funktion>
+<telefon>0751/501-8212 </telefon>
+<mailadresse>alle@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="63" user_name="SECHTIG">
+<user_name>SECHTIG</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Sechtig</nachname>
+<vorname>Jutta</vorname>
+<funktion>Akademische Oberrätin</funktion>
+<telefon>0751 501 8072</telefon>
+<mailadresse>sechtig@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Pädagogik der frühen Kindheit - Kinder- und Familienzentren - Bildungsort Familie - Videographie - Interaktionsqualität - Freispiel und Freispielbegleitung - Qualität von Kindertagesbetreuung - Qualifizierung frühpädagogischer Fachkräfte</forschungsschwerpunkte>
+</user>
+<user id="64" user_name="VISOTSCHNIG">
+<user_name>VISOTSCHNIG</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Visotschnig</nachname>
+<vorname>Marion Susanne</vorname>
+<funktion></funktion>
+<telefon>0751/501-</telefon>
+<mailadresse>marion.visotschnig@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="65" user_name="RAPP">
+<user_name>RAPP</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Rapp</nachname>
+<vorname>Hilke</vorname>
+<funktion>Wissenschaftliche Mitarbeiterin</funktion>
+<telefon> 49 751 501 8007</telefon>
+<mailadresse>rapp01@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten&lt;br&gt;Büro: W0.06, Leibnizstraße 1</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Unterrichtsforschung 
+Individualisierung
+Lernunterstützung</forschungsschwerpunkte>
+</user>
+<user id="66" user_name="BREIER">
+<user_name>BREIER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Breier</nachname>
+<vorname>Sina Barbara</vorname>
+<funktion>Akademische Mitarbeiterin, Doktorandin</funktion>
+<telefon> 49(0) 751 501-8008</telefon>
+<mailadresse>sina.breier@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Lernbegleitung Lehramtsstudierender, Peer-Coaching</forschungsschwerpunkte>
+</user>
+<user id="67" user_name="VIETZ">
+<user_name>VIETZ</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Vietz</nachname>
+<vorname>Sabine</vorname>
+<funktion>wissenschafltiche Mitarbeiterin IfB Mathematik</funktion>
+<telefon>(0)751 – 501 8</telefon>
+<mailadresse>vietz@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="68" user_name="KOMM">
+<user_name>KOMM</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Komm</nachname>
+<vorname>Ellen</vorname>
+<funktion>abgeordnete Lehrkraft </funktion>
+<telefon>0751 501 8082</telefon>
+<mailadresse>komm@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hoschschule
+Kirchplatz 2
+88250 Weingarten</anschrift>
+<maxanzeige>50</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="69" user_name="SINDERMANN">
+<user_name>SINDERMANN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum>Keine Zentrumszugehörigkeit</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Sindermann</nachname>
+<vorname>Paul</vorname>
+<funktion>Akademischer Mitarbeiter, Doktorand</funktion>
+<telefon> 49 (0)751 501-8236</telefon>
+<mailadresse>sindermann@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten
+Kirchplatz 2
+88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="70" user_name="KANSTEINER">
+<user_name>KANSTEINER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Kansteiner</nachname>
+<vorname>Katja</vorname>
+<funktion>Professorin</funktion>
+<telefon>0751-501-8848</telefon>
+<mailadresse>kks@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Personalführung / Personal- und Führungskräfteentwicklungsforschung,
+Gender-/Diversitätsforschung</forschungsschwerpunkte>
+</user>
+<user id="71" user_name="GOESSL">
+<user_name>GOESSL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Gössl</nachname>
+<vorname>Selina</vorname>
+<funktion>Projektkoordinatorin </funktion>
+<telefon>0049 751 501 8741</telefon>
+<mailadresse>goessl@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="72" user_name="HENNINGER">
+<user_name>HENNINGER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Henninger</nachname>
+<vorname>Michael</vorname>
+<funktion>Studiengangsleiter, Professor</funktion>
+<telefon>0751/501-8643</telefon>
+<mailadresse>henninger@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten
+Kirchplatz 2
+88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="73" user_name="KREYER">
+<user_name>KREYER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Kreyer</nachname>
+<vorname>Ingo</vorname>
+<funktion>Projektkoordination </funktion>
+<telefon>0151 65 1971 64</telefon>
+<mailadresse>kreyer@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="74" user_name="SCHMID">
+<user_name>SCHMID</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz>Susanne Sc</namenszusatz>
+<nachname>Schmid</nachname>
+<vorname>Susanne</vorname>
+<funktion>abgeordnete Lehrerin</funktion>
+<telefon> 49 751 501 8591</telefon>
+<mailadresse>schmid01@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;D-88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Lehrkräftekooperation, Professionelle Lerngemeinschaften</forschungsschwerpunkte>
+</user>
+<user id="75" user_name="YEO">
+<user_name>YEO</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Yeo</nachname>
+<vorname>Sarah</vorname>
+<funktion>Akademische Mitarbeiterin, Qualifizierungsleitung</funktion>
+<telefon>0751/ 501-8403</telefon>
+<mailadresse>yeo@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2
+88250 Weingarten
+W-Gebäude (W 1.34)</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="76" user_name="SCHUBERT">
+<user_name>SCHUBERT</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Schubert</nachname>
+<vorname>Tamara</vorname>
+<funktion></funktion>
+<telefon>0049 751 501 8332</telefon>
+<mailadresse>schubert@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="81" user_name="MASSUD">
+<user_name>MASSUD</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Islamische Theologie / Religionspädagogik</institut>
+<zentrum></zentrum>
+<titel>PD Dr. phil. habil. </titel>
+<namenszusatz>Abdel-Hafi</namenszusatz>
+<nachname>Massud</nachname>
+<vorname>Abdel-Hafiez</vorname>
+<funktion></funktion>
+<telefon>015906614237</telefon>
+<mailadresse>massud@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten, Kirchplatz 10, D- 88250 Weingarten. </anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="77" user_name="BENKOWITZ">
+<user_name>BENKOWITZ</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Biologie</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Benkowitz</nachname>
+<vorname>Dorothee</vorname>
+<funktion>Ordentliche Professorin für Biologie und ihre Dida</funktion>
+<telefon>0751 501 8384</telefon>
+<mailadresse>benkowitz@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-4092-1184</orcid>
+<forschungsschwerpunkte>Bildung für nachhaltige Entwicklung am Lernort Schulgarten und Schulgelände
+Wirkung authentischer Lernumgebungen, Schwerpunkt garden-based learning
+Wahrnehmung pflanzlicher Biodiversität
+Schülervorstellungen zu Pflanzen</forschungsschwerpunkte>
+</user>
+<user id="79" user_name="UMLAND">
+<user_name>UMLAND</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Umland</nachname>
+<vorname>Hannah</vorname>
+<funktion></funktion>
+<telefon>0174-8355904</telefon>
+<mailadresse>hannah.umland@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="84" user_name="BEHREND">
+<user_name>BEHREND</user_name>
+<user_gruppe>admin</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Prorektorat für Forschung</institut>
+<zentrum>Keine Zentrumszugehörigkeit</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Behrend</nachname>
+<vorname>Sandra</vorname>
+<funktion>Forschungsreferentin und Transfermanagerin</funktion>
+<telefon>0751/ 501-8032</telefon>
+<mailadresse>sandra.behrend@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="80" user_name="SCHWEIZER">
+<user_name>SCHWEIZER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Rektorat</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Schweizer</nachname>
+<vorname>Karin</vorname>
+<funktion>Rektorin</funktion>
+<telefon>0751 501-8241</telefon>
+<mailadresse>schweizer@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;University of Education&lt;br&gt;Kirchplatz 2, 88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0003-4043-739X</orcid>
+<forschungsschwerpunkte>Personale Faktoren von Lehrkräften
+Usability Evaluation on Teaching and Applying Modeldriven Object Oriented Approaches for PLC Software
+E-Learning, Blended Learning und computergestützte Kommunikation
+</forschungsschwerpunkte>
+</user>
+<user id="83" user_name="WELTHER">
+<user_name>WELTHER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel>MA</titel>
+<namenszusatz></namenszusatz>
+<nachname>Welther</nachname>
+<vorname>Sabine</vorname>
+<funktion>Akademische Mitarbeiterin</funktion>
+<telefon>075118086807 </telefon>
+<mailadresse>welther@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten </anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="85" user_name="SCHMIDT">
+<user_name>SCHMIDT</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Schmidt</nachname>
+<vorname>Christian</vorname>
+<funktion></funktion>
+<telefon>0751 5018209</telefon>
+<mailadresse>christian.schmidt@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="86" user_name="GUENTHER">
+<user_name>GUENTHER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Günther</nachname>
+<vorname>Verena</vorname>
+<funktion></funktion>
+<telefon>015752122733</telefon>
+<mailadresse>verena.guenther@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-0876-9194</orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="87" user_name="WETZ">
+<user_name>WETZ</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Prorektorat für Forschung</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Wetz</nachname>
+<vorname>Anne</vorname>
+<funktion>Studentische Hilfskraft</funktion>
+<telefon>01793833363</telefon>
+<mailadresse>anne.wetz@stud.ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="88" user_name="BOEHRINGER">
+<user_name>BOEHRINGER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Böhringer</nachname>
+<vorname>Julia</vorname>
+<funktion>Akademische Rätin im Fach Mathematik</funktion>
+<telefon>0751/ 501-8435</telefon>
+<mailadresse>boehringer@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten
+Kirchplatz 2
+88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="130" user_name="KENNER">
+<user_name>KENNER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Wirtschafts- und Sozialwissenschaft</institut>
+<zentrum></zentrum>
+<titel>Jun.-Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Kenner</nachname>
+<vorname>Steve</vorname>
+<funktion>Fachsprecher Politikwissenschaft</funktion>
+<telefon> 49 751 5018380</telefon>
+<mailadresse>steve.kenner@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Fakultät I  Politikwissenschaft &lt;br&gt;Jun.-Prof. Dr. Steve Kenner&lt;br&gt;Kirchplatz 2 &lt;br&gt;88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Politische Partizipation, soziale Bewegungen, politische Bildung in Zeiten sozial-ökologischer Transformation, Demokratiebildung</forschungsschwerpunkte>
+</user>
+<user id="89" user_name="SEUFFERT">
+<user_name>SEUFFERT</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum></zentrum>
+<titel>M.A. (Mag.art.)</titel>
+<namenszusatz></namenszusatz>
+<nachname>Seuffert</nachname>
+<vorname>Gabriele</vorname>
+<funktion>Akademische Mitarbeiterin</funktion>
+<telefon>0751768794017</telefon>
+<mailadresse>gabriele.seuffert@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Ravensburg</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Schwierigkeiten im Schriftspracherwerb</forschungsschwerpunkte>
+</user>
+<user id="90" user_name="BURMEISTER">
+<user_name>BURMEISTER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Burmeister</nachname>
+<vorname>Carolin</vorname>
+<funktion>Akademische Mitarbeiterin, Doktorandin</funktion>
+<telefon>-</telefon>
+<mailadresse>burmeister01@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="91" user_name="MAZZA">
+<user_name>MAZZA</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Mazza</nachname>
+<vorname>Francesca</vorname>
+<funktion>Wissenschaftliche Mitarbeiterin (WiBeG)</funktion>
+<telefon>015140175076</telefon>
+<mailadresse>francesca.mazza@ph-weingarten.de</mailadresse>
+<anschrift>Raum Dan 1.56&lt;br&gt;&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="92" user_name="BIEG">
+<user_name>BIEG</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Bieg</nachname>
+<vorname>Sonja</vorname>
+<funktion>Professorin</funktion>
+<telefon> 49 751/501-8756</telefon>
+<mailadresse>sonja.bieg@ph-weingarten.de</mailadresse>
+<anschrift>Kirchpatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-8333-8140</orcid>
+<forschungsschwerpunkte>Motivation bei Lernenden
+Emotionales Erleben bei Lernenden
+Humor im Unterricht
+Unterrichtsqualität</forschungsschwerpunkte>
+</user>
+<user id="93" user_name="SUSANNE">
+<user_name>SUSANNE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Susanne</nachname>
+<vorname>Kley</vorname>
+<funktion>Wissenschaftliche Mitarbeiterin</funktion>
+<telefon>07515018266</telefon>
+<mailadresse>kley@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Professionalisierung und Professionalitätsentwicklung in der Alphabetisierung und Grundbildung mit Jugendlichen und Erwachsenen
+Wirkungsforschung</forschungsschwerpunkte>
+</user>
+<user id="94" user_name="BERNET">
+<user_name>BERNET</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Bernet</nachname>
+<vorname>Felix</vorname>
+<funktion>Akademischer Mitarbeiter</funktion>
+<telefon> 41788299499</telefon>
+<mailadresse>f.bernet@sunrise.ch</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Digitalisierung, Inklusion</forschungsschwerpunkte>
+</user>
+<user id="95" user_name="BURMEISTER1">
+<user_name>BURMEISTER1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Englisch</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Burmeister</nachname>
+<vorname>Petra</vorname>
+<funktion></funktion>
+<telefon></telefon>
+<mailadresse>burmeister@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Zweit- und Fremdsprachenerwerb, CLIL-Verfahren, Immersion, Task-Based-Language Learning</forschungsschwerpunkte>
+</user>
+<user id="97" user_name="STANGE">
+<user_name>STANGE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Musik</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Stange</nachname>
+<vorname>Christoph</vorname>
+<funktion>Professor für Musik und ihre Didaktik/Fachsprecher</funktion>
+<telefon>0751/ 501-8975</telefon>
+<mailadresse>stange@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Bildungstheoretische Grundlagen des Musikunterrichts
+Musik und Körper
+Transformation von Musik
+Fachgeschichte
+
+</forschungsschwerpunkte>
+</user>
+<user id="98" user_name="SEEL">
+<user_name>SEEL</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Seel</nachname>
+<vorname>Ulrika</vorname>
+<funktion></funktion>
+<telefon>0751 501-8293</telefon>
+<mailadresse>seel@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="99" user_name="LANG">
+<user_name>LANG</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Lang</nachname>
+<vorname>Melina</vorname>
+<funktion>Hiwi Psychologie</funktion>
+<telefon>015233699013</telefon>
+<mailadresse>melina.lang@stud.ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="100" user_name="PILZ">
+<user_name>PILZ</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Pilz</nachname>
+<vorname>Torben</vorname>
+<funktion>Hiwi</funktion>
+<telefon>015156120283</telefon>
+<mailadresse>torben0299@web.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="102" user_name="CHANTAL">
+<user_name>CHANTAL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Chantal</nachname>
+<vorname>Müller</vorname>
+<funktion></funktion>
+<telefon>0751/ 501-8010</telefon>
+<mailadresse>mueller04@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Digitalunterstützes Mathematiklernen in der Grundschule 
+Darstellen und Darstellungstransferprozesse mit Medien 
+Lehren und Lernen mit substanziellen Lernumgebungen </forschungsschwerpunkte>
+</user>
+<user id="103" user_name="STEINMETZ">
+<user_name>STEINMETZ</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Steinmetz</nachname>
+<vorname>Michael</vorname>
+<funktion>Professor (Schwerpunkt Literaturdidaktik)</funktion>
+<telefon>(0751) 501 - 8795</telefon>
+<mailadresse>steinmetz@ph-weingarten.de</mailadresse>
+<anschrift>Prof. Dr. Michael Steinmetz&lt;br&gt;Pädagogische Hochschule Weingarten&lt;br&gt;Fakultät II - Fach Deutsch &lt;br&gt;Kirchplatz 2 &lt;br&gt;88250 Weingarten&lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Theorie des literarischen Verstehens
+Literarisches Unterrichtsgespräch
+Textkompetenzen
+Bildungsstandards
+Empirische Aufgabenforschung
+Materialgestütztes Schreiben</forschungsschwerpunkte>
+</user>
+<user id="106" user_name="ZIROLI">
+<user_name>ZIROLI</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sportwissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Ziroli</nachname>
+<vorname>Sergio</vorname>
+<funktion>Prodekan Fakultät I, Studiengangleiter BA BE</funktion>
+<telefon>0751 501 8572</telefon>
+<mailadresse>ziroli@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Gesundheit und Schulsport
+Motorische Leistungsfähigkeit von Kindern und Jugendlichen
+Bewegung, Spiel und Sport im Rahmen der Ganztagsschule
+Bewegte Schulen/täglicher Sportunterricht
+Gewichtsstatus von Kindern und Jugendlichen
+Bewegung, Spiel und Sport in vorschulischen Einrichtungen und im Primarbereich
+Kooperation Schule und Verein
+Sportvereinsentwicklung
+Schulspor</forschungsschwerpunkte>
+</user>
+<user id="107" user_name="BARTH">
+<user_name>BARTH</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sonstiges, nicht gelistetes Institut</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Barth</nachname>
+<vorname>Lukas</vorname>
+<funktion>Wissenschaftlicher Mitarbeiter</funktion>
+<telefon>0751/501-8559</telefon>
+<mailadresse>lukas.barth@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="108" user_name="SERDAREVIC">
+<user_name>SERDAREVIC</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz>Amina</namenszusatz>
+<nachname>Serdarevic</nachname>
+<vorname>Amina</vorname>
+<funktion>Studentin</funktion>
+<telefon>017645865967</telefon>
+<mailadresse>amina.serdarevic@stud.ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="109" user_name="KRAUTTER">
+<user_name>KRAUTTER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geographie</institut>
+<zentrum>Zentrum für Regionalforschung (eh. Zentrum für Regionalität und Schulgeschichte)</zentrum>
+<titel>Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Krautter</nachname>
+<vorname>Yvonne</vorname>
+<funktion>Professorin für Geographie und ihre Didaktik</funktion>
+<telefon>0751-5018356</telefon>
+<mailadresse>krautter@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten &lt;br&gt;Kirchplatz 2&lt;br&gt;Fruchtkasten F 203&lt;br&gt;88250 Weingarten &lt;br&gt;</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.JPG</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Geographiedidaktik: Schulbuchforschung
+Medien im Geographieunterricht
+Schülervorstellungen </forschungsschwerpunkte>
+</user>
+<user id="110" user_name="STEGER">
+<user_name>STEGER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Steger</nachname>
+<vorname>Aline</vorname>
+<funktion></funktion>
+<telefon></telefon>
+<mailadresse>aline.steger@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="111" user_name="HAASE">
+<user_name>HAASE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Englisch</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz>Alessa</namenszusatz>
+<nachname>Haase</nachname>
+<vorname>Alessa</vorname>
+<funktion>Doktorandin</funktion>
+<telefon>017656995488</telefon>
+<mailadresse>alessa.haase@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Reflexionskompetenz von Englischlehrpersonen</forschungsschwerpunkte>
+</user>
+<user id="112" user_name="FRIRDICH">
+<user_name>FRIRDICH</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>M.A.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Frirdich</nachname>
+<vorname>Gregor</vorname>
+<funktion>Doktorand</funktion>
+<telefon>0751-5018947</telefon>
+<mailadresse>Gregor.Frirdich@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Schulentwicklung, Professionalisierung, Heterogenität, Lehrer*innenbildung, </forschungsschwerpunkte>
+</user>
+<user id="113" user_name="SCHMID1">
+<user_name>SCHMID1</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Prorektorat für Forschung</institut>
+<zentrum>Keine Zentrumszugehörigkeit</zentrum>
+<titel>Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Schmid</nachname>
+<vorname>Maria E.</vorname>
+<funktion>Studierende</funktion>
+<telefon>00393466896143</telefon>
+<mailadresse>mariaeschmid@icloud.com</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="114" user_name="SCHNEBEL">
+<user_name>SCHNEBEL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Schnebel</nachname>
+<vorname>Stefanie</vorname>
+<funktion>Professorin</funktion>
+<telefon>0751 501 8352</telefon>
+<mailadresse>schnebel@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Unterrichtsforschung, Lehrpersonenprofessionalisierungsforschung, Lernbegleitung, Werteerziehung, Unterrichtsentwicklung im Kontext Digitalität</forschungsschwerpunkte>
+</user>
+<user id="115" user_name="MOERIKE">
+<user_name>MOERIKE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>M.A.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Mörike</nachname>
+<vorname>Dorothee</vorname>
+<funktion>Wissenschaftliche MA/FuN-Kollegiatin/Promovendin</funktion>
+<telefon>0751-501 8948</telefon>
+<mailadresse>dorothee.moerike@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2
+88250 Weingarten 
+Office: D 1.50, Danziger Straße 3</anschrift>
+<maxanzeige>50</maxanzeige>
+<bild>.jpg</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Grundschulforschung/Schulentwicklungsforschung</forschungsschwerpunkte>
+</user>
+<user id="116" user_name="OBERDORFER">
+<user_name>OBERDORFER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Oberdorfer</nachname>
+<vorname>Katharina</vorname>
+<funktion>FuN-Kollegiatin</funktion>
+<telefon>0751-501-8541</telefon>
+<mailadresse>katharina.oberdorfer@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten&lt;br&gt;Office: W 1.35, Leibnizstraße 1</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Lernentwicklungsgespräche in der Primarstufe</forschungsschwerpunkte>
+</user>
+<user id="117" user_name="JAKOBS">
+<user_name>JAKOBS</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>M.A.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Jakobs</nachname>
+<vorname>Carina</vorname>
+<funktion>wissenschaftliche Mitarbeiterin</funktion>
+<telefon>01727247248</telefon>
+<mailadresse>carina.jakobs@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten
+Kirchplatz 2
+
+88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0003-4953-8795</orcid>
+<forschungsschwerpunkte>Beratung, Begabung, Schulentwicklung</forschungsschwerpunkte>
+</user>
+<user id="118" user_name="GRAS">
+<user_name>GRAS</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel>Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Gras</nachname>
+<vorname>Juliana</vorname>
+<funktion></funktion>
+<telefon>0751 501-8563</telefon>
+<mailadresse>grasj@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten
+University of Education
+Kirchplatz 2,
+88250 Weingarten
+</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="119" user_name="HOESSLE">
+<user_name>HOESSLE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Sonstiges, nicht gelistetes Institut</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Hößle</nachname>
+<vorname>Nadine</vorname>
+<funktion>TEgoDi Projektassistenz</funktion>
+<telefon>0751 501-8119</telefon>
+<mailadresse>nadine.hoessle@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="120" user_name="LANDBERG">
+<user_name>LANDBERG</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum>Forschungszentrum für Bildungsinnovation und Professionalisierung</zentrum>
+<titel>Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Landberg</nachname>
+<vorname>Monique</vorname>
+<funktion>Akademische Mitarbeiterin</funktion>
+<telefon>01704211075</telefon>
+<mailadresse>Monique.landberg@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="121" user_name="LANGER">
+<user_name>LANGER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Langer</nachname>
+<vorname>Sandra</vorname>
+<funktion></funktion>
+<telefon>0751-501-8343</telefon>
+<mailadresse>langersa@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="122" user_name="BRIEMLE">
+<user_name>BRIEMLE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sportwissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Briemle</nachname>
+<vorname>Laura</vorname>
+<funktion>wissenschaftliche Mitarbeiterin </funktion>
+<telefon>49 751/501-</telefon>
+<mailadresse>Laura.briemle@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Fakultät I – Fach Sportwissenschaft&lt;br&gt;Geb.: W 0.23&lt;br&gt;Leibnizstraße 3, 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="123" user_name="THEILMANN">
+<user_name>THEILMANN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Physik</institut>
+<zentrum></zentrum>
+<titel>Prof. Dr. </titel>
+<namenszusatz></namenszusatz>
+<nachname>Theilmann</nachname>
+<vorname>Florian</vorname>
+<funktion>ordentlicher Professor</funktion>
+<telefon> 49 1512 183 6217</telefon>
+<mailadresse>theilmann@ph-weingarten.de</mailadresse>
+<anschrift>Fach Physik&lt;br&gt;PH Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-2227-2678</orcid>
+<forschungsschwerpunkte>Naturwissenschaftsdidaktik</forschungsschwerpunkte>
+</user>
+<user id="124" user_name="LEHRL">
+<user_name>LEHRL</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Lehrl</nachname>
+<vorname>Simone</vorname>
+<funktion>Professorin</funktion>
+<telefon> 07515018911</telefon>
+<mailadresse>simone.lehrl@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-2720-122X</orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="125" user_name="SCHAEFER">
+<user_name>SCHAEFER</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Sportwissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Schaefer</nachname>
+<vorname>Waltraud</vorname>
+<funktion></funktion>
+<telefon>0751 501 8844</telefon>
+<mailadresse>waltraud.schaefer@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="127" user_name="BOCKSTAHLER">
+<user_name>BOCKSTAHLER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Physik</institut>
+<zentrum>Keine Zentrumszugehörigkeit</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Bockstahler</nachname>
+<vorname>David</vorname>
+<funktion>Akademischer Mitarbeiter</funktion>
+<telefon>0176 61302009</telefon>
+<mailadresse>david.bockstahler@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;z.H. David Bockstahler&lt;br&gt;Kirchplatz 2, D-88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Inter-/ Transdisziplinäre Bildung
+STEM Education, STEAM Education
+Scientific Literacy &amp; Citizen Science
+Digitalisierung
+Inklusion, Gestaltung von Lernräumen (Spatial Design)
+Bildungsentwicklung, Curriculumentwicklung</forschungsschwerpunkte>
+</user>
+<user id="128" user_name="GRASSINGER">
+<user_name>GRASSINGER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Grassinger</nachname>
+<vorname>Robert</vorname>
+<funktion>Professor</funktion>
+<telefon>07515018006</telefon>
+<mailadresse>grassinger@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0003-3769-1047</orcid>
+<forschungsschwerpunkte>Lern- und Leistungsmotivation, Selbstregulation des Lernverhaltens, Lern- und Leistungsemotionen, Begabung und Begabungsförderung</forschungsschwerpunkte>
+</user>
+<user id="129" user_name="LANG1">
+<user_name>LANG1</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Sonstiges, nicht gelistetes Institut</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Lang</nachname>
+<vorname>Sabine</vorname>
+<funktion>Projektkoordination</funktion>
+<telefon>0751/ 501-8576</telefon>
+<mailadresse>lang@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="131" user_name="HEMPFER">
+<user_name>HEMPFER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mathematik</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Hempfer</nachname>
+<vorname>Romy</vorname>
+<funktion></funktion>
+<telefon>(0) 751 / 501-8865</telefon>
+<mailadresse>hempfer@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten, Raum S 1.06&lt;br&gt;Kirchplatz 2&lt;br&gt;D - 88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="132" user_name="ROTTMANN">
+<user_name>ROTTMANN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Prof. Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Rottmann</nachname>
+<vorname>Joachim</vorname>
+<funktion></funktion>
+<telefon> 49(0)751/501-8551 </telefon>
+<mailadresse>rottmann@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>Berufsbildungsforschung</forschungsschwerpunkte>
+</user>
+<user id="133" user_name="BERNHARD">
+<user_name>BERNHARD</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum></zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Bernhard</nachname>
+<vorname>Gerda</vorname>
+<funktion>Projektkoordination FuN-Kolleg</funktion>
+<telefon> 49 751 501-8209</telefon>
+<mailadresse>gerda.bernhard@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten&lt;br&gt;Fakultät 1 - Pädagogische Psychologie&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0003-2622-0258</orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="134" user_name="MAZZA-SOLOPERTO">
+<user_name>MAZZA-SOLOPERTO</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Deutsch mit Sprecherziehung</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Mazza-Soloperto</nachname>
+<vorname>Francesca</vorname>
+<funktion>Akademische Mitarbeiterin / Projektkoordinatorin</funktion>
+<telefon>015140175076</telefon>
+<mailadresse>francesca.mazza@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="135" user_name="WORTMANN">
+<user_name>WORTMANN</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Wortmann</nachname>
+<vorname>Iris</vorname>
+<funktion>akad. Mitarbeiterin</funktion>
+<telefon>0751 / 501- 8953</telefon>
+<mailadresse>iris.wortmann@ph-weingarten.de</mailadresse>
+<anschrift>Postanschrift:&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten&lt;br&gt;&lt;br&gt;Besucheradresse/Büro: Leibnizstraße 3, W1.31</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="136" user_name="RHEINWALD">
+<user_name>RHEINWALD</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>andere Einrichtung</einrichtung>
+<institut>Prorektorat für Lehre und Studium</institut>
+<zentrum>Keine Zentrumszugehörigkeit</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Rheinwald</nachname>
+<vorname>Kristin</vorname>
+<funktion>Referentin für Lehre und Studium</funktion>
+<telefon>0751 501-8259</telefon>
+<mailadresse>rheinwald@ph-weingarten.de</mailadresse>
+<anschrift>PH Weingarten&lt;br&gt;Kirchplatz 2&lt;br&gt;88250 Weingarten</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="137" user_name="GELEWSKI">
+<user_name>GELEWSKI</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel></titel>
+<namenszusatz>Michaela</namenszusatz>
+<nachname>Gelewski</nachname>
+<vorname>Michaela</vorname>
+<funktion>wissenschaftliche Mitarbeiterin und Doktorandin </funktion>
+<telefon></telefon>
+<mailadresse>michaela.gelewski@ph-weingarten.de</mailadresse>
+<anschrift>Kirchplatz 2 
+88250 Weingarten
+W 0.06 </anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte>	- Sustained Shared Thinking im frühen naturwissenschaftlichen Spiel
+- naturwissenschaftliche Bildung
+- Spielpädagogik
+- Erwachsenenbildung
+</forschungsschwerpunkte>
+</user>
+<user id="138" user_name="DURSKI">
+<user_name>DURSKI</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 2</einrichtung>
+<institut>Mediendidaktik</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Durski</nachname>
+<vorname>Sara</vorname>
+<funktion></funktion>
+<telefon>01708251557</telefon>
+<mailadresse>sara.durski@md-phw.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="139" user_name="HITZELBERGER">
+<user_name>HITZELBERGER</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Hitzelberger</nachname>
+<vorname>Mirjam</vorname>
+<funktion>Wissenschaftliche Mitarbeiterin</funktion>
+<telefon> 49 (0)751/501-8675</telefon>
+<mailadresse>mirjam.hitzelberger@ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0009-0002-5868-2705</orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="140" user_name="NEFF">
+<user_name>NEFF</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Erziehungswissenschaft</institut>
+<zentrum>Forschungszentrum für Elementar- und Primarbildung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Neff</nachname>
+<vorname>Judith</vorname>
+<funktion>Dozentin, Geschäftsführung Montessori-Studio</funktion>
+<telefon>0751 501 -0</telefon>
+<mailadresse>neff@ph-weingarten.de</mailadresse>
+<anschrift>Pädagogische Hochschule Weingarten University of Education Kirchplatz 2, 88250 Weingarten </anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>.jpg</bild>
+<orcid>0009-0000-0187-7566</orcid>
+<forschungsschwerpunkte>Montessori-Pädagogik, Reformpädagogik und Schulentwicklung, Inklusion und digitale Medien, Bildung für nachhaltige Entwicklung (BNE), Beobachtung</forschungsschwerpunkte>
+</user>
+<user id="141" user_name="HERTER">
+<user_name>HERTER</user_name>
+<user_gruppe>hiwi</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Geschichte</institut>
+<zentrum></zentrum>
+<titel></titel>
+<namenszusatz></namenszusatz>
+<nachname>Herter</nachname>
+<vorname>Simon</vorname>
+<funktion></funktion>
+<telefon>015751401166</telefon>
+<mailadresse>simon.herter@stud.ph-weingarten.de</mailadresse>
+<anschrift></anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid></orcid>
+<forschungsschwerpunkte></forschungsschwerpunkte>
+</user>
+<user id="142" user_name="BANARUEE">
+<user_name>BANARUEE</user_name>
+<user_gruppe>user</user_gruppe>
+<einrichtung>Fakultät 1</einrichtung>
+<institut>Pädagogische Psychologie</institut>
+<zentrum>Forschungszentrum für Sekundarbildung</zentrum>
+<titel>Dr.</titel>
+<namenszusatz></namenszusatz>
+<nachname>Banaruee</nachname>
+<vorname>Hassan</vorname>
+<funktion>Akademischer Mitarbeiter</funktion>
+<telefon>0751 / 501 8759</telefon>
+<mailadresse>hassan.banaruee@ph-weingarten.de</mailadresse>
+<anschrift>88250 Weingarten, PH Weingarten, Fach Psychologie, Zimmer Lon 2.07</anschrift>
+<maxanzeige>10</maxanzeige>
+<bild>N</bild>
+<orcid>0000-0002-8004-7604</orcid>
+<forschungsschwerpunkte>educational psychology: longitudinal &amp; experimental studies, an applied/cognitive linguistics (psycholinguistic experiments, content analysis, curriculum &amp; culture, embodied language), and a teacher educator.</forschungsschwerpunkte>
+</user>
+</fdb_user>
